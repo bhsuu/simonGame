@@ -1,0 +1,51 @@
+#yellow{
+  background-color: #F7DF01;
+}
+#yellow.active, #yellow:active{
+  background-color:#AB05FE
+}
+#red{
+  background-color:red;
+}
+#red.active, #red:active{
+  background-color:#D83939;
+}
+#blue{
+  background-color:blue;
+}
+#blue.active, #blue:active{
+  background-color:#3B7FE5
+}
+#green{
+  background-color:green;
+}
+#green.active, #green:active{
+  background-color: #6EE53B
+}
+#simongame{
+  margin: auto;
+  width: 800px;
+  
+}
+#strict.active{
+  background-color: #F0D5D5
+}
+body{
+  background-color: #50A29D
+}
+.colBut{
+  height: 100px;
+  margin:auto;
+  margin-top:20px;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  border-radius:8%;
+}
+
+h1 {
+  margin:30px;
+}
+#score{
+  margin-bottom:20px;
+}
